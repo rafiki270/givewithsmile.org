@@ -651,7 +651,7 @@
 											<div class="col-md-6">
 												<div class="team-item__name">Ondrej Rafaj</div>
 												<div class="team-item__position">Mobile developer</div>
-												<div class="team-item__position">United Kingdon</div>
+												<div class="team-item__position">United Kingdom</div>
 											</div>
 											<div class="col-md-6">
 												<div class="team-item__contact">
@@ -671,11 +671,11 @@
 								<div class="col-xs-6 col-sm-4">
 									<div class="team__item">
 										<div class="team-item__img">
-											<img src="img/team_2.jpg" class="img-responsive" alt="...">
+											<img src="img/team_2.jpg" class="img-responsive" alt="Sam Anger">
 										</div>
 										<div class="row">
 											<div class="col-md-6">
-												<div class="team-item__name">John Doe</div>
+												<div class="team-item__name">Sam Anger</div>
 												<div class="team-item__position">Cool dude</div>
 												<div class="team-item__position">France</div>
 											</div>
@@ -684,7 +684,7 @@
 													<a class="team-item-contact__link" href="#">
 														<i class="fa fa-twitter"></i>
 													</a>
-													<a class="team-item-contact__link team-item-contact__link_facebook" href="#">
+													<a class="team-item-contact__link team-item-contact__link_facebook" href="https://www.facebook.com/grutten.fru">
 														<i class="fa fa-facebook"></i>
 													</a>
 													<div class="clearfix"></div>
