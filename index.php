@@ -128,8 +128,7 @@
 							<h1 class="heading hero__heading animated fadeInUp">Help our fellow Earthlinks through the winter!</h1>
 							<!-- Hero subheading -->
 							<p class="heading__sub hero-heading__sub animated fadeInUp delay_1">
-								Do you have a tent you don't use anymore or you were planning on getting a new one next season anyway? Give it to someone who's life might depend on it this winter!<br />
-								Just take it, put a message inside with a big smile :) next to it ...
+								Do you have a tent you don't use anymore or you were planning on getting a new one next season anyway? Give it to someone who's life might depend on it this winter!
 							</p>
 							<!-- Hero buttons -->
 							<a href="#need" class="hero__btn btn btn-lg btn-primary animated fadeInUp delay_2">Buy a tent</a> 
