@@ -1017,7 +1017,7 @@
 									</div>
 									<!-- reCAPTCHA -->
 									<div class="form-group" id="form-captcha">
-										<div class="g-recaptcha" data-sitekey="YOUR_PUBLIC_KEY"></div>
+										<div class="g-recaptcha" data-sitekey="6LfDKQwTAAAAAJkOCe3HNcypi-pmpuJM3GDq7xyC"></div>
 										<span class="help-block"></span>
 									</div>
 									<!-- /reCAPTCHA -->

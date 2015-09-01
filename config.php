@@ -6,8 +6,8 @@
 // Insert below your reCaptcha Public and Private Keys
 // Go to https://www.google.com/recaptcha/admin/create if you don't have the keys yet
 
-$publickey = "YOUR_PUBLIC_KEY";
-$privatekey = "YOUR_PRIVATE_KEY";
+$publickey = "6LfDKQwTAAAAAJkOCe3HNcypi-pmpuJM3GDq7xyC";
+$privatekey = "6LfDKQwTAAAAANU4QyExhGtjjzXDGWzj8slAVj7n";
 
 // Mail Setup
 // ==========
