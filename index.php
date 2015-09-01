@@ -675,8 +675,8 @@
 										</div>
 										<div class="row">
 											<div class="col-md-6">
-												<div class="team-item__name">Sam Anger</div>
-												<div class="team-item__position">Cool dude</div>
+												<div class="team-item__name">French dude</div>
+												<div class="team-item__position">who's signing up?!</div>
 												<div class="team-item__position">France</div>
 											</div>
 											<div class="col-md-6">
@@ -684,7 +684,7 @@
 													<a class="team-item-contact__link" href="#">
 														<i class="fa fa-twitter"></i>
 													</a>
-													<a class="team-item-contact__link team-item-contact__link_facebook" href="https://www.facebook.com/grutten.fru">
+													<a class="team-item-contact__link team-item-contact__link_facebook" href="#">
 														<i class="fa fa-facebook"></i>
 													</a>
 													<div class="clearfix"></div>
@@ -697,20 +697,20 @@
 								<div class="col-xs-6 col-sm-4">
 									<div class="team__item">
 										<div class="team-item__img">
-											<img src="img/team_3.jpg" class="img-responsive" alt="Pavel Fuchs, manGoWeb">
+											<img src="img/team_2.jpg" class="img-responsive" alt="...">
 										</div>
 										<div class="row">
 											<div class="col-md-6">
-												<div class="team-item__name">Pavel Fuchs</div>
-												<div class="team-item__position">Company director</div>
+												<div class="team-item__name">Kdo to asi bude?</div>
+												<div class="team-item__position">Prihlaste se</div>
 												<div class="team-item__position">Czech Republic</div>
 											</div>
 											<div class="col-md-6">
 												<div class="team-item__contact">
-													<a class="team-item-contact__link" href="https://twitter.com/pavelfuchs">
+													<a class="team-item-contact__link" href="#">
 														<i class="fa fa-twitter"></i>
 													</a>
-													<a class="team-item-contact__link team-item-contact__link_facebook" href="https://www.facebook.com/fuchspavel">
+													<a class="team-item-contact__link team-item-contact__link_facebook" href="#">
 														<i class="fa fa-facebook"></i>
 													</a>
 													<div class="clearfix"></div>
