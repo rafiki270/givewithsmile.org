@@ -19,6 +19,7 @@
 		<link href='http://fonts.googleapis.com/css?family=Karla:400,700' rel='stylesheet' type='text/css'>
 		<!-- CSS Custom -->
 		<link href="css/styles.css" rel="stylesheet">
+		<link href="css/custom.css" rel="stylesheet">
 		<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 		<!--[if lt IE 9]>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -144,6 +145,31 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-xs-12">
+							<h4 class="heading">Instructions</h4>
+							<p class="heading__sub">
+								<dl class="badass" style="text-align: center;">
+									<dt>Get some of your old camping equipment</dt>
+									<dd>or buy new using our <a href="">Amazon wish list</a></dd>
+									
+									<dt>Write a nice message on the inner wall of the tent</dt>
+									<dd>or put a message inside of whatever you are giving</dd>
+									
+									<dt>Don't forget to paint a nice big smiley face in there</dt>
+									<dd>This is extremely important!!!</dd>
+									
+									<dt>Send it to us in London or Prague</dt>
+									<dd>you can also give it to us in person! Addresses are <a href="#address">here</a> ... we might even collect it, talk to us</dd>
+									
+									<dt>If you are too far send or give us anything, you can always donate some cash</dt>
+									<dd>we will tell you personally what we have spent it on!</dd>
+								</dl>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-12">
 							<h4 class="heading">About this project</h4>
 							<p class="heading__sub">
 								Who are we? A bunch of people who are really frustrated by how the immigration is being handled across Europe. We want to help, at least a little bit ... as much as we can.
@@ -182,7 +208,8 @@
 										Buy new stuff
 									</div>
 									<div class="features-item-body__summary">
-										We have prepared a little wish list on <a href="">Amazon</a> and selected some products that we would like to take over. We have spent some time trying to find the right stuff which we know could just save a life ...
+										We have prepared a little wish list on <a href="">Amazon</a> and selected some products that we would like to take over. We have spent some time trying to find the right stuff which we know could just save a life ...<br /><br />
+										<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/">Amazon Wishlist</a>
 									</div>
 								</div>
 								<!-- / .features-item__body -->
@@ -281,7 +308,7 @@
 									<div class="pricing-item__summary">
 										This is a very basic emergency shelter that might just save some lives.
 									</div>
-									<a href="http://www.amazon.co.uk/dp/B004XRIS8M/" class="btn btn-default">
+									<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-default">
 										<span class="oi oi-cart"></span> Purchase now
 									</a>
 								</div>
@@ -298,7 +325,7 @@
 									<div class="pricing-item__summary">
 										Very basic but waterproof tent that we'll try to distribute to more vulnerable or with children.
 									</div>
-									<a href="http://www.amazon.co.uk/dp/B003CLDYZ2/" class="btn btn-default">
+									<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-default">
 										<span class="oi oi-cart"></span> Purchase now
 									</a>
 								</div>
@@ -315,7 +342,7 @@
 									<div class="pricing-item__summary">
 										Hot tea or a soup is what sometimes makes the difference when you cold. Don't forget we will need some <a href="http://www.amazon.co.uk/Gosystem-Butane-Propane-Threaded-Cartridge/dp/B005ERMKBG/"><strong>gas cartridges</strong></a> and <a href="http://www.amazon.co.uk/douself®-Portable-Ultra-light-Anodised-Aluminum/dp/B00K2T7LC4/"><strong>pots</strong></a> too!!!
 									</div>
-									<a href="http://www.amazon.co.uk/douself-Portable-Windproof-Cookware-Climbing/dp/B00KAYU63M/" class="btn btn-default">
+									<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-default">
 										<span class="oi oi-cart"></span> Purchase now
 									</a>
 								</div>
@@ -332,7 +359,7 @@
 									<div class="pricing-item__summary">
 										We would like to get a couple of good quality tents to give to those with little babies. Please help us deliver at least a few of these!
 									</div>
-									<a href="http://www.amazon.co.uk/CampFeuer®-Igloo-Dome-Tent-Persons-Silver/dp/B0027DH574/" class="btn btn-default">
+									<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-default">
 										<span class="oi oi-cart"></span> Purchase now
 									</a>
 								</div>
@@ -619,7 +646,7 @@
 								<div class="col-xs-6 col-sm-4">
 									<div class="team__item">
 										<div class="team-item__img">
-											<img src="img/team_3.jpg" class="img-responsive" alt="...">
+											<img src="img/team_1.jpg" class="img-responsive" alt="Ondrej Rafaj, Ridiculous Innovations">
 										</div>
 										<div class="row">
 											<div class="col-md-6">
@@ -629,10 +656,10 @@
 											</div>
 											<div class="col-md-6">
 												<div class="team-item__contact">
-													<a class="team-item-contact__link" href="#">
+													<a class="team-item-contact__link" href="https://twitter.com/rafiki270">
 														<i class="fa fa-twitter"></i>
 													</a>
-													<a class="team-item-contact__link team-item-contact__link_facebook" href="#">
+													<a class="team-item-contact__link team-item-contact__link_facebook" href="https://www.facebook.com/rafiki270">
 														<i class="fa fa-facebook"></i>
 													</a>
 													<div class="clearfix"></div>
@@ -645,12 +672,13 @@
 								<div class="col-xs-6 col-sm-4">
 									<div class="team__item">
 										<div class="team-item__img">
-											<img src="img/team_3.jpg" class="img-responsive" alt="...">
+											<img src="img/team_2.jpg" class="img-responsive" alt="...">
 										</div>
 										<div class="row">
 											<div class="col-md-6">
 												<div class="team-item__name">John Doe</div>
-												<div class="team-item__position">UI/UX Designer</div>
+												<div class="team-item__position">Cool dude</div>
+												<div class="team-item__position">France</div>
 											</div>
 											<div class="col-md-6">
 												<div class="team-item__contact">
@@ -670,7 +698,7 @@
 								<div class="col-xs-6 col-sm-4">
 									<div class="team__item">
 										<div class="team-item__img">
-											<img src="img/team_3.jpg" class="img-responsive" alt="...">
+											<img src="img/team_3.jpg" class="img-responsive" alt="Pavel Fuchs, manGoWeb">
 										</div>
 										<div class="row">
 											<div class="col-md-6">
@@ -680,10 +708,10 @@
 											</div>
 											<div class="col-md-6">
 												<div class="team-item__contact">
-													<a class="team-item-contact__link" href="#">
+													<a class="team-item-contact__link" href="https://twitter.com/pavelfuchs">
 														<i class="fa fa-twitter"></i>
 													</a>
-													<a class="team-item-contact__link team-item-contact__link_facebook" href="#">
+													<a class="team-item-contact__link team-item-contact__link_facebook" href="https://www.facebook.com/fuchspavel">
 														<i class="fa fa-facebook"></i>
 													</a>
 													<div class="clearfix"></div>

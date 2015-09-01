@@ -13,9 +13,9 @@ $privatekey = "YOUR_PRIVATE_KEY";
 // ==========
 
 // Sender Name and <email address> separated by space
-$mail_sender = 'Support <support@example.com>';
+$mail_sender = 'Support <support@givewithsmile.org>';
 // Your Email Address where new emails will be sent to
-$to_email = 'admin@example.com';
+$to_email = 'support@givewithsmile.org';
 // Email Subject
 $mail_subject = 'Support Request';
 

@@ -1,0 +1,23 @@
+.badass {
+	counter-reset: my-badass-counter;
+}
+.badass dt {
+	position: relative;
+	font: bold 16px Georgia;
+	padding: 4px 0 10px 0;
+}
+.badass dt:before {
+	content: counter(my-badass-counter);
+	counter-increment: my-badass-counter;
+	position: absolute;
+	left: 0;
+	top: 0;
+	font: bold 50px/1 Sans-Serif;
+}
+.badass dd {
+	margin: 0 0 50px 0;
+}	
+.badass dt, .badass dd {
+	padding-left: 50px;
+}
+
