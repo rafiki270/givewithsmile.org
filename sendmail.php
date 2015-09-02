@@ -21,7 +21,7 @@ if ($_POST["g-recaptcha-response"]) {
 	//
 	$resp = file_get_contents( "https://www.google.com/recaptcha/api/siteverify?secret={$privatekey}&response={$_POST['g-recaptcha-response']}&remoteip={$_SERVER['REMOTE_ADDR']}" );
 	$resp = json_decode( $resp );
-	// Если капча не прошла проверку
+	
 	if( $resp->success == false ) {
 		$json['error']['recaptcha'] = 'Incorrect code. Please try again.';
 	}

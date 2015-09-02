@@ -90,7 +90,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="#home">HELP WITH SMILE <i class="fa fa-smile-o"></i></a>
+						<a class="navbar-brand" href="#home">GIVE WITH SMILE <i class="fa fa-smile-o"></i></a>
 					</div>
 					<div id="navbar" class="collapse navbar-collapse">
 						<ul class="nav navbar-nav navbar-right ">
