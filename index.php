@@ -433,9 +433,9 @@
 												<p>This is really basic survival equipment which won't cost you much but for a young rough sleeper, this might mean the difference between life and death this winter.</p>
 												<p>Cost around: <strong>£4</strong></p>
 												<p>
-													<a href="" class="btn btn-lg btn-primary">
+													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-lg btn-primary">
 														<i class="fa fa-shopping-cart"></i>
-														Buy this ...
+														Buy now!
 													</a> 
 												</p>
 											</div>
@@ -461,11 +461,11 @@
 											</div>
 											<div class="portfolio-item-mask__summary">
 												<p>Any kind of a used (but working!) or new tent will help a lot. People are keep coming and a good tent might be the thing that gets them poor souls through.</p>
-												<p>Cost around: <strong>£15</strong></p>
+												<p>Cost around: <strong>£15-£60</strong></p>
 												<p>
-													<a href="" class="btn btn-lg btn-primary">
+													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-lg btn-primary">
 														<i class="fa fa-shopping-cart"></i>
-														Buy this ...
+														Buy now!
 													</a> 
 												</p>
 											</div>
@@ -490,7 +490,14 @@
 												Sleeping bags
 											</div>
 											<div class="portfolio-item-mask__summary">
-												A good sleeping bag is worth everything ... just remember when you were last camping and how glad you were you have it when you woke up late at night. Plus, we are pretty sure you deserve a new one next year anyway!!! :)
+												<p>A good sleeping bag is worth everything ... just remember when you were last camping and how glad you were you have it when you woke up late at night. Plus, we are pretty sure you deserve a new one next year anyway!!! :)</p>
+												<p>Cost around: <strong>£10-£50</strong></p>
+												<p>
+													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-lg btn-primary">
+														<i class="fa fa-shopping-cart"></i>
+														Buy now!
+													</a> 
+												</p>
 											</div>
 										</div>
 										<!-- / .portfolio-item-mask__content -->
@@ -513,7 +520,14 @@
 												Cooking equipment
 											</div>
 											<div class="portfolio-item-mask__summary">
-												Being able to cook a hot meal to your kids is something we all take for granted. Please help us provide the means of doing so to our fellow humans in need!
+												<p>Being able to cook a hot meal to your kids is something we all take for granted. Please help us provide the means of doing so to our fellow humans in need!</p>
+												<p>Cost around: <strong>£10-£60</strong></p>
+												<p>
+													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-lg btn-primary">
+														<i class="fa fa-shopping-cart"></i>
+														Buy now!
+													</a> 
+												</p>
 											</div>
 										</div>
 										<!-- / .portfolio-item-mask__content -->
@@ -536,7 +550,14 @@
 												Camping Mats
 											</div>
 											<div class="portfolio-item-mask__summary">
-												The ground get's really cold even in the summer. A good camping mat doesn't just insulate the cold but could be the most important prevention from spreading illnesses.
+												<p>The ground get's really cold even in the summer. A good camping mat doesn't just insulate the cold but could be the most important prevention from spreading illnesses.</p>
+												<p>Cost around: <strong>£6</strong></p>
+												<p>
+													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-lg btn-primary">
+														<i class="fa fa-shopping-cart"></i>
+														Buy now!
+													</a> 
+												</p>
 											</div>
 										</div>
 										<!-- / .portfolio-item-mask__content -->
@@ -559,7 +580,14 @@
 												First Aid Kits
 											</div>
 											<div class="portfolio-item-mask__summary">
-												Some portable first aid kits could become handy this winter. The services available to migrants are very limited so help them to be as self-sufficient as possible. Just please make sure the kits are un-opened and still valid when you donate.
+												<p>Some portable first aid kits could become handy this winter. The services available to migrants are very limited so help them to be as self-sufficient as possible. Just please make sure the kits are un-opened and still valid when you donate.</p>
+												<p>Cost around: <strong>£5</strong></p>
+												<p>
+													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-lg btn-primary">
+														<i class="fa fa-shopping-cart"></i>
+														Buy now!
+													</a> 
+												</p>
 											</div>
 										</div>
 										<!-- / .portfolio-item-mask__content -->
@@ -582,7 +610,14 @@
 												Blankets &amp; Baby blankets
 											</div>
 											<div class="portfolio-item-mask__summary">
-												It is essential to keep the young ones warm during the winter. Please donate some baby blankets, or well, any blankets in a good condition to the cause!
+												<p>It is essential to keep the young ones warm during the winter. Please donate some baby blankets, or well, any blankets in a good condition to the cause!</p>
+												<p>Cost around: <strong>£5-£10</strong></p>
+												<p>
+													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-lg btn-primary">
+														<i class="fa fa-shopping-cart"></i>
+														Buy now!
+													</a> 
+												</p>
 											</div>
 										</div>
 										<!-- / .portfolio-item-mask__content -->
@@ -605,7 +640,14 @@
 												Food
 											</div>
 											<div class="portfolio-item-mask__summary">
-												Migrants in Calais and everywhere else are suffering from hunger. Any food that can last without refrigeration and is rich in nutritions is welcome. Please refrain from any food containing pork ... this should be obvious, we are just saying :)
+												<p>Migrants in Calais and everywhere else are suffering from hunger. Any food that can last without refrigeration and is rich in nutritions is welcome. Please refrain from any food containing pork ... this should be obvious, we are just saying :)</p>
+												<p>Cost around: <strong>£12 for 12 tins!</strong></p>
+												<p>
+													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-lg btn-primary">
+														<i class="fa fa-shopping-cart"></i>
+														Buy now!
+													</a> 
+												</p>
 											</div>
 										</div>
 										<!-- / .portfolio-item-mask__content -->
