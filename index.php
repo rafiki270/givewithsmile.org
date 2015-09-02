@@ -487,10 +487,10 @@
 									<div class="portfolio-item__mask">
 										<div class="portfolio-item-mask__content">
 											<div class="portfolio-item-mask__title">
-												In cursus diam at ante consectetur
+												Sleeping bags
 											</div>
 											<div class="portfolio-item-mask__summary">
-												Pellentesque metus arcu, placerat nec porta in, ultricies id enim. Nullam sit amet viverra sapien, quis aliquet quam.
+												A good sleeping bag is worth everything ... just remember when you were last camping and how glad you were you have it when you woke up late at night. Plus, we are pretty sure you deserve a new one next year anyway!!! :)
 											</div>
 										</div>
 										<!-- / .portfolio-item-mask__content -->
@@ -510,10 +510,10 @@
 									<div class="portfolio-item__mask">
 										<div class="portfolio-item-mask__content">
 											<div class="portfolio-item-mask__title">
-												In cursus diam at ante consectetur
+												Cooking equipment
 											</div>
 											<div class="portfolio-item-mask__summary">
-												Pellentesque metus arcu, placerat nec porta in, ultricies id enim. Nullam sit amet viverra sapien, quis aliquet quam.
+												Being able to cook a hot meal to your kids is something we all take for granted. Please help us provide the means of doing so to our fellow humans in need!
 											</div>
 										</div>
 										<!-- / .portfolio-item-mask__content -->
@@ -533,10 +533,10 @@
 									<div class="portfolio-item__mask">
 										<div class="portfolio-item-mask__content">
 											<div class="portfolio-item-mask__title">
-												In cursus diam at ante consectetur
+												Camping Mats
 											</div>
 											<div class="portfolio-item-mask__summary">
-												Pellentesque metus arcu, placerat nec porta in, ultricies id enim. Nullam sit amet viverra sapien, quis aliquet quam.
+												The ground get's really cold even in the summer. A good camping mat doesn't just insulate the cold but could be the most important prevention from spreading illnesses.
 											</div>
 										</div>
 										<!-- / .portfolio-item-mask__content -->
@@ -556,10 +556,10 @@
 									<div class="portfolio-item__mask">
 										<div class="portfolio-item-mask__content">
 											<div class="portfolio-item-mask__title">
-												In cursus diam at ante consectetur
+												First Aid Kits
 											</div>
 											<div class="portfolio-item-mask__summary">
-												Pellentesque metus arcu, placerat nec porta in, ultricies id enim. Nullam sit amet viverra sapien, quis aliquet quam.
+												Some portable first aid kits could become handy this winter. The services available to migrants are very limited so help them to be as self-sufficient as possible. Just please make sure the kits are un-opened and still valid when you donate.
 											</div>
 										</div>
 										<!-- / .portfolio-item-mask__content -->
@@ -579,10 +579,10 @@
 									<div class="portfolio-item__mask">
 										<div class="portfolio-item-mask__content">
 											<div class="portfolio-item-mask__title">
-												In cursus diam at ante consectetur
+												Blankets &amp; Baby blankets
 											</div>
 											<div class="portfolio-item-mask__summary">
-												Pellentesque metus arcu, placerat nec porta in, ultricies id enim. Nullam sit amet viverra sapien, quis aliquet quam.
+												It is essential to keep the young ones warm during the winter. Please donate some baby blankets, or well, any blankets in a good condition to the cause!
 											</div>
 										</div>
 										<!-- / .portfolio-item-mask__content -->
@@ -602,10 +602,10 @@
 									<div class="portfolio-item__mask">
 										<div class="portfolio-item-mask__content">
 											<div class="portfolio-item-mask__title">
-												In cursus diam at ante consectetur
+												Food
 											</div>
 											<div class="portfolio-item-mask__summary">
-												Pellentesque metus arcu, placerat nec porta in, ultricies id enim. Nullam sit amet viverra sapien, quis aliquet quam.
+												Migrants in Calais and everywhere else are suffering from hunger. Any food that can last without refrigeration and is rich in nutritions is welcome. Please refrain from any food containing pork ... this should be obvious, we are just saying :)
 											</div>
 										</div>
 										<!-- / .portfolio-item-mask__content -->
