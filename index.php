@@ -27,6 +27,15 @@
 		<![endif]-->
 	</head>
 	<body data-spy="scroll" data-target=".navbar" data-offset="71">
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			
+			ga('create', 'UA-45380708-7', 'auto');
+			ga('send', 'pageview');
+		</script>
 		<!-- SIDEBAR
 			============================== -- >
 			<div class="sidebar">
@@ -208,7 +217,7 @@
 									</div>
 									<div class="features-item-body__summary">
 										We have prepared a little wish list on <a href="">Amazon</a> and selected some products that we would like to take over. We have spent some time trying to find the right stuff which we know could just save a life ...<br /><br />
-										<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/">Amazon Wishlist</a>
+										<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/?tag=givewithsmile-21">Amazon Wishlist</a>
 									</div>
 								</div>
 								<!-- / .features-item__body -->
@@ -307,7 +316,7 @@
 									<div class="pricing-item__summary">
 										This is a very basic emergency shelter that might just save some lives.
 									</div>
-									<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-default">
+									<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/?tag=givewithsmile-21" class="btn btn-default">
 										<span class="oi oi-cart"></span> Purchase now
 									</a>
 								</div>
@@ -324,7 +333,7 @@
 									<div class="pricing-item__summary">
 										Very basic but waterproof tent that we'll try to distribute to more vulnerable or with children.
 									</div>
-									<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-default">
+									<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/?tag=givewithsmile-21" class="btn btn-default">
 										<span class="oi oi-cart"></span> Purchase now
 									</a>
 								</div>
@@ -339,9 +348,9 @@
 										<span>from</span> £15
 									</div>
 									<div class="pricing-item__summary">
-										Hot tea or a soup is what sometimes makes the difference when you cold. Don't forget we will need some <a href="http://www.amazon.co.uk/Gosystem-Butane-Propane-Threaded-Cartridge/dp/B005ERMKBG/"><strong>gas cartridges</strong></a> and <a href="http://www.amazon.co.uk/douself®-Portable-Ultra-light-Anodised-Aluminum/dp/B00K2T7LC4/"><strong>pots</strong></a> too!!!
+										Hot tea or a soup is what sometimes makes the difference when you cold. Don't forget we will need some <a href="http://www.amazon.co.uk/Gosystem-Butane-Propane-Threaded-Cartridge/dp/B005ERMKBG/?tag=givewithsmile-21"><strong>gas cartridges</strong></a> and <a href="http://www.amazon.co.uk/douself®-Portable-Ultra-light-Anodised-Aluminum/dp/B00K2T7LC4/?tag=givewithsmile-21"><strong>pots</strong></a> too!!!
 									</div>
-									<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-default">
+									<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/?tag=givewithsmile-21" class="btn btn-default">
 										<span class="oi oi-cart"></span> Purchase now
 									</a>
 								</div>
@@ -358,7 +367,7 @@
 									<div class="pricing-item__summary">
 										We would like to get a couple of good quality tents to give to those with little babies. Please help us deliver at least a few of these!
 									</div>
-									<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-default">
+									<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/?tag=givewithsmile-21" class="btn btn-default">
 										<span class="oi oi-cart"></span> Purchase now
 									</a>
 								</div>
@@ -433,7 +442,7 @@
 												<p>This is really basic survival equipment which won't cost you much but for a young rough sleeper, this might mean the difference between life and death this winter.</p>
 												<p>Cost around: <strong>£4</strong></p>
 												<p>
-													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-lg btn-primary">
+													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/?tag=givewithsmile-21" class="btn btn-lg btn-primary">
 														<i class="fa fa-shopping-cart"></i>
 														Buy now!
 													</a> 
@@ -463,7 +472,7 @@
 												<p>Any kind of a used (but working!) or new tent will help a lot. People are keep coming and a good tent might be the thing that gets them poor souls through.</p>
 												<p>Cost around: <strong>£15-£60</strong></p>
 												<p>
-													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-lg btn-primary">
+													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/?tag=givewithsmile-21" class="btn btn-lg btn-primary">
 														<i class="fa fa-shopping-cart"></i>
 														Buy now!
 													</a> 
@@ -493,7 +502,7 @@
 												<p>A good sleeping bag is worth everything ... just remember when you were last camping and how glad you were you have it when you woke up late at night. Plus, we are pretty sure you deserve a new one next year anyway!!! :)</p>
 												<p>Cost around: <strong>£10-£50</strong></p>
 												<p>
-													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-lg btn-primary">
+													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/?tag=givewithsmile-21" class="btn btn-lg btn-primary">
 														<i class="fa fa-shopping-cart"></i>
 														Buy now!
 													</a> 
@@ -523,7 +532,7 @@
 												<p>Being able to cook a hot meal to your kids is something we all take for granted. Please help us provide the means of doing so to our fellow humans in need!</p>
 												<p>Cost around: <strong>£10-£60</strong></p>
 												<p>
-													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-lg btn-primary">
+													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/?tag=givewithsmile-21" class="btn btn-lg btn-primary">
 														<i class="fa fa-shopping-cart"></i>
 														Buy now!
 													</a> 
@@ -553,7 +562,7 @@
 												<p>The ground get's really cold even in the summer. A good camping mat doesn't just insulate the cold but could be the most important prevention from spreading illnesses.</p>
 												<p>Cost around: <strong>£6</strong></p>
 												<p>
-													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-lg btn-primary">
+													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/?tag=givewithsmile-21" class="btn btn-lg btn-primary">
 														<i class="fa fa-shopping-cart"></i>
 														Buy now!
 													</a> 
@@ -583,7 +592,7 @@
 												<p>Some portable first aid kits could become handy this winter. The services available to migrants are very limited so help them to be as self-sufficient as possible. Just please make sure the kits are un-opened and still valid when you donate.</p>
 												<p>Cost around: <strong>£5</strong></p>
 												<p>
-													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-lg btn-primary">
+													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/?tag=givewithsmile-21" class="btn btn-lg btn-primary">
 														<i class="fa fa-shopping-cart"></i>
 														Buy now!
 													</a> 
@@ -613,7 +622,7 @@
 												<p>It is essential to keep the young ones warm during the winter. Please donate some baby blankets, or well, any blankets in a good condition to the cause!</p>
 												<p>Cost around: <strong>£5-£10</strong></p>
 												<p>
-													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-lg btn-primary">
+													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/?tag=givewithsmile-21" class="btn btn-lg btn-primary">
 														<i class="fa fa-shopping-cart"></i>
 														Buy now!
 													</a> 
@@ -643,7 +652,7 @@
 												<p>Migrants in Calais and everywhere else are suffering from hunger. Any food that can last without refrigeration and is rich in nutritions is welcome. Please refrain from any food containing pork ... this should be obvious, we are just saying :)</p>
 												<p>Cost around: <strong>£12 for 12 tins!</strong></p>
 												<p>
-													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/" class="btn btn-lg btn-primary">
+													<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/?tag=givewithsmile-21" class="btn btn-lg btn-primary">
 														<i class="fa fa-shopping-cart"></i>
 														Buy now!
 													</a> 
