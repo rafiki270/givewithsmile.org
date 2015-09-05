@@ -951,6 +951,8 @@
 					<div class="row">
 						<div class="col-xs-12">
 							<h4 class="heading">Get email updates!</h4>
+							
+							<!--
 							<form class="form-inline form_alt subscribe__form">
 								<div class="form-group">
 									<label class="sr-only" for="subscribe__name">Name</label>
@@ -963,6 +965,39 @@
 								<button type="submit" class="btn btn-primary">
 								Subscribe</button>
 							</form>
+							-->
+							
+							
+							
+							<!-- Begin MailChimp Signup Form -->
+							<div id="mc_embed_signup">
+								<form action="//ridiculous-innovations.us8.list-manage.com/subscribe/post?u=653346f22539afee521916a89&amp;id=f9c5a17b1f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline form_alt subscribe__form" target="_blank" novalidate>
+									<div class="mc-field-group form-group">
+										<label for="mce-FNAME" class="sr-only">First Name </label>
+										<input type="text" value="" name="FNAME" class="form-control input-lg" id="mce-FNAME" placeholder="First name">
+									</div>
+									<div class="mc-field-group form-group">
+										<label for="mce-LNAME" class="sr-only">Last Name </label>
+										<input type="text" value="" name="LNAME" class="form-control input-lg" id="mce-LNAME" placeholder="Last name">
+									</div>
+									<div class="mc-field-group form-group">
+										<label for="mce-EMAIL" class="sr-only">Email Address </label>
+										<input type="email" value="" name="EMAIL" placeholder="best.guy@that-helps.co.uk" class="required email form-control input-lg" id="mce-EMAIL" />
+									</div>
+							    	<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-primary" />
+									<div id="mce-responses" class="clear">
+										<div class="response" id="mce-error-response" style="display:none"></div>
+										<div class="response" id="mce-success-response" style="display:none"></div>
+									</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+								    <div style="position: absolute; left: -5000px;"><input type="text" name="b_653346f22539afee521916a89_f9c5a17b1f" tabindex="-1" value=""></div>
+								</form>
+							</div>
+							<!--End mc_embed_signup-->							
+							
+							
+							
+							
+							
 						</div>
 					</div>
 				</div>
@@ -988,7 +1023,7 @@
 				<!-- FEATURES ============================== -->
 				<div class="container">
 					<div class="row">
-						<div class="col-sm-12">
+						<div class="col-sm-6">
 							<div class="features__item wow fadeIn">
 								<div class="features-item__body" style="text-align: center;">
 									<div class="features-item-body__title">
