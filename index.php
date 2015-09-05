@@ -385,7 +385,7 @@
 							<h4 class="heading">Do you live far from us? Donate!</h4>
 							<p class="heading__sub">
 								If you are unable to give or send us any equipment, we are happy to buy it for you and write the message in it ourselves! We'll even try to take a photo for you so you can see what a difference you have made!<br />
-								Don't forget to send an email to <a href="mailto:donations@givewithsmile.org">donations@givewithsmile.org</a> with what would you like to use your money on, and what your smile message is to be written on what we get!
+								You can donate either using our PayPal account (any money coming in goes right to the good cause and we won't have to pay 5% commission on it!!!) or you can help through our JustGiving page
 							</p>
 						</div>
 					</div>
@@ -407,8 +407,11 @@
 								<input type="image" src="http://www.paypal.com/en_GB/i/btn/x-click-butcc-donate.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" />
 							</p>
 						</form>
-						<div id="jg-widget-ondrej-rafaj-588" class="col-lg-4 col-lg-offset-1 col-sm-10 col-sm-offset-1"></div>
-						<script>(function(){var id="jg-widget-ondrej-rafaj-588",doc=document,pfx=(window.location.toString().indexOf("https")==0)?"https":"http";var el=doc.getElementById(id);if(el){var js=doc.createElement('script');js.src=pfx+"://widgets.justgiving.com/fundraisingpage/ondrej-rafaj?enc=ZT1qZy13aWRnZXQtb25kcmVqLXJhZmFqLTU4OCZ3PTQwMCZiPWltYWdlLGRvbmF0ZSxmdW5kcmFpc2UmaWI9dGl0bGUsc3VtbWFyeSxwcm9ncmVzcyxyYWlzZWQsdGFyZ2V0";el.parentNode.insertBefore(js, el);}})();</script>
+						<div class="col-lg-4 col-lg-offset-2 col-sm-10 col-sm-offset-1">
+							<a href="https://crowdfunding.justgiving.com/ondrej-rafaj" title="Help through our JustGiving page">
+								<img src="img/just-giving.png" alt="Help through our JustGiving page" style="width:100%;" />
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -703,8 +706,7 @@
 										<div class="row">
 											<div class="col-md-6">
 												<div class="team-item__name">Ondrej Rafaj</div>
-												<div class="team-item__position">Mobile developer</div>
-												<div class="team-item__position">United Kingdom</div>
+												<div class="team-item__position">Company director, UK</div>
 											</div>
 											<div class="col-md-6">
 												<div class="team-item__contact">
@@ -724,20 +726,19 @@
 								<div class="col-xs-6 col-sm-4">
 									<div class="team__item">
 										<div class="team-item__img">
-											<img src="img/team_2.jpg" class="img-responsive" alt="Sam Anger">
+											<img src="img/team_2.jpg" class="img-responsive" alt="Simon Lee">
 										</div>
 										<div class="row">
 											<div class="col-md-6">
-												<div class="team-item__name">French dude</div>
-												<div class="team-item__position">who's signing up?!</div>
-												<div class="team-item__position">France</div>
+												<div class="team-item__name">Simon Lee</div>
+												<div class="team-item__position">Company director, UK</div>
 											</div>
 											<div class="col-md-6">
 												<div class="team-item__contact">
-													<a class="team-item-contact__link" href="#">
+													<a class="team-item-contact__link" href="https://twitter.com/locassa">
 														<i class="fa fa-twitter"></i>
 													</a>
-													<a class="team-item-contact__link team-item-contact__link_facebook" href="#">
+													<a class="team-item-contact__link team-item-contact__link_facebook" href="https://www.facebook.com/spikeyuk">
 														<i class="fa fa-facebook"></i>
 													</a>
 													<div class="clearfix"></div>
@@ -750,13 +751,12 @@
 								<div class="col-xs-6 col-sm-4">
 									<div class="team__item">
 										<div class="team-item__img">
-											<img src="img/team_2.jpg" class="img-responsive" alt="...">
+											<img src="img/team_3.jpg" class="img-responsive" alt="...">
 										</div>
 										<div class="row">
 											<div class="col-md-6">
-												<div class="team-item__name">Kdo to asi bude?</div>
-												<div class="team-item__position">Prihlaste se</div>
-												<div class="team-item__position">Czech Republic</div>
+												<div class="team-item__name">Who's next?</div>
+												<div class="team-item__position">Join us!</div>
 											</div>
 											<div class="col-md-6">
 												<div class="team-item__contact">
@@ -835,7 +835,7 @@
 				
 				
 			<!-- TESTIMONIALS
-				============================== -->
+				============================== -- >
 			<div class="section" id="testimonials">
 				<div class="container">
 					<div class="row">
@@ -848,7 +848,6 @@
 					</div>
 					<div class="row">
 						<div class="col-md-10 col-md-offset-1">
-							<!-- Wrapper for slides -->
 							<div id="review__carousel" class="owl-carousel owl-theme">
 								<div class="item">
 									<div class="review__item">
@@ -866,7 +865,6 @@
 											<div class="clearfix"></div>
 										</div>
 									</div>
-									<!-- / .review__item -->
 								</div>
 								<div class="item">
 									<div class="review__item">
@@ -884,7 +882,6 @@
 											<div class="clearfix"></div>
 										</div>
 									</div>
-									<!-- / .review__item -->
 								</div>
 								<div class="item">
 									<div class="review__item">
@@ -902,7 +899,6 @@
 											<div class="clearfix"></div>
 										</div>
 									</div>
-									<!-- / .review__item -->
 								</div>
 								<div class="item">
 									<div class="review__item">
@@ -920,7 +916,6 @@
 											<div class="clearfix"></div>
 										</div>
 									</div>
-									<!-- / .review__item -->
 								</div>
 								<div class="item">
 									<div class="review__item">
@@ -938,10 +933,9 @@
 											<div class="clearfix"></div>
 										</div>
 									</div>
-									<!-- / .review__item -->
 								</div>
 							</div>
-							<!-- / .review__carousel -->
+
 						</div>
 					</div>
 				</div>
@@ -994,7 +988,7 @@
 				<!-- FEATURES ============================== -->
 				<div class="container">
 					<div class="row">
-						<div class="col-sm-6">
+						<div class="col-sm-12">
 							<div class="features__item wow fadeIn">
 								<div class="features-item__body" style="text-align: center;">
 									<div class="features-item-body__title">
@@ -1006,10 +1000,9 @@
 										London, UK
 									</div>
 								</div>
-								<!-- / .features-item__body -->
 							</div>
-							<!-- / .features__item -->
 						</div>
+						<!--
 						<div class="col-sm-6">
 							<div class="features__item wow fadeIn">
 								<div class="features-item__body" style="text-align: center;">
@@ -1023,10 +1016,9 @@
 										Prague 1, zech Republic
 									</div>
 								</div>
-								<!-- / .features-item__body -->
 							</div>
-							<!-- / .features__item -->
 						</div>
+						-->
 					</div>
 				</div>
 			</div>
