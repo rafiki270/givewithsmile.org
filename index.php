@@ -134,10 +134,10 @@
 					<div class="row">
 						<div class="col-xs-12">
 							<!-- Hero heading -->
-							<h1 class="heading hero__heading animated fadeInUp">Help our fellow Earthlinks through the winter!</h1>
+							<h1 class="heading hero__heading animated fadeInUp">Help our fellow Earthlings through the winter!</h1>
 							<!-- Hero subheading -->
 							<p class="heading__sub hero-heading__sub animated fadeInUp delay_1">
-								Do you have a tent you don't use anymore or you were planning on getting a new one next season anyway? Give it to someone who's life might depend on it this winter!
+								Do you have a tent you don't use anymore or you were planning on getting a new one next season anyway? Give it to someone whose life might depend on it this winter!
 							</p>
 							<!-- Hero buttons -->
 							<a href="#need" class="hero__btn btn btn-lg btn-primary animated fadeInUp delay_2">Buy a tent</a> 
@@ -156,7 +156,7 @@
 							<h4 class="heading">Instructions</h4>
 							<p class="heading__sub">
 								<dl class="badass" style="text-align: center;">
-									<dt>Get some of your old camping equipment</dt>
+									<dt>Give some of your old camping equipment</dt>
 									<dd>or buy new using our <a href="">Amazon wish list</a></dd>
 									
 									<dt>Write a nice message on the inner wall of the tent</dt>
@@ -166,10 +166,10 @@
 									<dd>This is extremely important!!!</dd>
 									
 									<dt>Send it to us in London or Prague</dt>
-									<dd>you can also give it to us in person! Addresses are <a href="#address">here</a> ... we might even collect it, talk to us</dd>
+									<dd>You can also give it to us in person! Addresses are <a href="#address">here</a> ... we might even collect it. Talk to us!</dd>
 									
-									<dt>If you are too far send or give us anything, you can always donate some cash</dt>
-									<dd>we will tell you personally what we have spent it on!</dd>
+									<dt>If you are too far send or give us anything, you can always donate some cash.</dt>
+									<dd>We will get in touch with you personally and tell you what we spent it on!</dd>
 								</dl>
 							</p>
 						</div>
@@ -180,7 +180,7 @@
 						<div class="col-xs-12">
 							<h4 class="heading">About this project</h4>
 							<p class="heading__sub">
-								Who are we? A bunch of people who are really frustrated by how the immigration is being handled across Europe. We want to help, at least a little bit ... as much as we can.
+								Who are we? A bunch of people who are really frustrated by how immigration and asylum is being handled across Europe. We want to help, at least a little bit ... as much as we can.
 							</p>
 						</div>
 					</div>
@@ -199,7 +199,7 @@
 										Donate your old camping equipment
 									</div>
 									<div class="features-item-body__summary">
-										Help those in need by donating your old festival / camping equipment. We will personally make sure this will get to the right hands and will even try to take a photo for you to see you have truly made a difference!
+										Help those in need by donating your old festival / camping equipment. We will personally make sure this will get to the right people. We will even try to take a photo for you so you can see you have truly made a difference!
 									</div>
 								</div>
 								<!-- / .features-item__body -->
@@ -216,7 +216,7 @@
 										Buy new stuff
 									</div>
 									<div class="features-item-body__summary">
-										We have prepared a little wish list on <a href="">Amazon</a> and selected some products that we would like to take over. We have spent some time trying to find the right stuff which we know could just save a life ...<br /><br />
+										We have prepared a little wish list on <a href="">Amazon</a> and selected some products that we would like to take over to Calais. We have spent some time trying to find the right stuff which might just save a life ...<br /><br />
 										<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/?tag=givewithsmile-21">Amazon Wishlist</a>
 									</div>
 								</div>
@@ -234,7 +234,7 @@
 										Our end game?
 									</div>
 									<div class="features-item-body__summary">
-										If you help us to make our first trip, we promise to find a charity that will be able to make the most out of this project. As we all have full-time jobs elsewhere, we won't be able to run this on a permanent basis but we feel that that the right charity could do so pretty well!
+										If you help us make our first trip, we promise to find a charity that will be able to make the most out of this project. As we all have full-time jobs elsewhere, we won't be able to run this on a permanent basis but we want to do what we can to help the right charity!
 									</div>
 								</div>
 								<!-- / .features-item__body -->
@@ -299,7 +299,7 @@
 							<h4 class="heading">What do we recommend getting!</h4>
 							<p class="heading__sub">
 								If you'd like to help but don't have anything to donate at home. You can use the following as an inspiration!<br /><br />
-								You can either
+								You can get
 							</p>
 						</div>
 					</div>
@@ -331,7 +331,7 @@
 										<span>from</span> £8
 									</div>
 									<div class="pricing-item__summary">
-										Very basic but waterproof tent that we'll try to distribute to more vulnerable or with children.
+										Very basic but waterproof tent that we'll try to distribute to more vulnerable individuals or those with children.
 									</div>
 									<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/?tag=givewithsmile-21" class="btn btn-default">
 										<span class="oi oi-cart"></span> Purchase now
@@ -348,7 +348,7 @@
 										<span>from</span> £15
 									</div>
 									<div class="pricing-item__summary">
-										Hot tea or a soup is what sometimes makes the difference when you cold. Don't forget we will need some <a href="http://www.amazon.co.uk/Gosystem-Butane-Propane-Threaded-Cartridge/dp/B005ERMKBG/?tag=givewithsmile-21"><strong>gas cartridges</strong></a> and <a href="http://www.amazon.co.uk/douself®-Portable-Ultra-light-Anodised-Aluminum/dp/B00K2T7LC4/?tag=givewithsmile-21"><strong>pots</strong></a> too!!!
+										Hot tea or soup is what sometimes makes a huge difference when you are cold. Don't forget we will need some <a href="http://www.amazon.co.uk/Gosystem-Butane-Propane-Threaded-Cartridge/dp/B005ERMKBG/?tag=givewithsmile-21"><strong>gas cartridges</strong></a> and <a href="http://www.amazon.co.uk/douself®-Portable-Ultra-light-Anodised-Aluminum/dp/B00K2T7LC4/?tag=givewithsmile-21"><strong>pots</strong></a> too!!!
 									</div>
 									<a href="http://www.amazon.co.uk/gp/registry/wishlist/KBH8B1NBRUUT/?tag=givewithsmile-21" class="btn btn-default">
 										<span class="oi oi-cart"></span> Purchase now
@@ -384,8 +384,8 @@
 						<div class="col-xs-12">
 							<h4 class="heading">Do you live far from us? Donate!</h4>
 							<p class="heading__sub">
-								If you are unable to give or send us any equipment, we are happy to buy it for you and write the message on in ourselves! We'll even try to take a photo for you so you can see what a difference you have done!<br />
-								Don't forget to send us an email to <a href="mailto:donations@givewithsmile.org">donations@givewithsmile.org</a> with what would you like to use your money on and what is your smile message you'd like to put on what we get!
+								If you are unable to give or send us any equipment, we are happy to buy it for you and write the message in it ourselves! We'll even try to take a photo for you so you can see what a difference you have made!<br />
+								Don't forget to send an email to <a href="mailto:donations@givewithsmile.org">donations@givewithsmile.org</a> with what would you like to use your money on, and what your smile message is to be written on what we get!
 							</p>
 						</div>
 					</div>
