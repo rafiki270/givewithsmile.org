@@ -110,7 +110,7 @@
 							<li><a href="#inspiration">Inspiration</a></li>
 							<li><a href="#team">Team</a></li>
 							<li><a href="#address">Addresses</a></li>
-							<li><a href="#contact">Contact Us</a></li>
+							<!-- <li><a href="#contact">Contact Us</a></li> -->
 							<!--
 								<li class="hidden-xs">
 								  <p class="navbar-text navbar__separator"></p>
@@ -1042,7 +1042,7 @@
 							<div class="features__item wow fadeIn">
 								<div class="features-item__body" style="text-align: center;">
 									<div class="features-item-body__title">
-										Torquay, CZ
+										Torquay, UK
 									</div>
 									<div class="features-item-body__summary">
 										Contact:<br />
@@ -1061,7 +1061,7 @@
 			
 			
 			<!-- CONTACT US
-				============================== -->
+				============================== -- >
 			<div class="container" id="contact">
 				<div class="row">
 					<div class="col-xs-12">
@@ -1073,35 +1073,26 @@
 				</div>
 				<div class="row">
 					<div class="col-sm-12 col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2">
-						<!-- Alert message -->
 						<div class="alert contact-form__alert" id="form_message" role="alert"></div>
-						<!-- Contact form -->
-						<!-- Please carefully read the README.txt file
-							in order to setup the PHP contact form properly -->
 						<form role="form" class="contact__form" id="form_sendemail">
 							<div class="row">
 								<div class="col-sm-6">
-									<!-- Email -->
 									<div class="form-group">
 										<label for="email" class="sr-only">Your email address</label>
 										<input type="email" name="email" class="form-control" id="email" placeholder="E-mail">
 										<span class="help-block"></span>
 									</div>
-									<!-- Name -->
 									<div class="form-group">
 										<label for="name" class="sr-only">Your name</label>
 										<input type="text" name="name" class="form-control" id="name" placeholder="Full Name">
 										<span class="help-block"></span>
 									</div>
-									<!-- reCAPTCHA -->
 									<div class="form-group" id="form-captcha">
 										<div class="g-recaptcha" data-sitekey="6LfDKQwTAAAAAJkOCe3HNcypi-pmpuJM3GDq7xyC"></div>
 										<span class="help-block"></span>
 									</div>
-									<!-- /reCAPTCHA -->
 								</div>
 								<div class="col-sm-6">
-									<!-- Message -->
 									<div class="form-group">
 										<label for="message" class="sr-only">Your message</label>
 										<textarea name="message" class="form-control" rows="9" id="message" placeholder="Message"></textarea>
@@ -1129,7 +1120,7 @@
 						</div>
 						<div class="col-sm-6">
 							<div class="footer__social">
-								<a href="#" class="footer-social__link footer-social__link_twitter">
+								<a href="https://twitter.com/rafiki270" class="footer-social__link footer-social__link_twitter">
 								<i class="fa fa-twitter"></i>
 								</a>
 								<a href="#" class="footer-social__link footer-social__link_facebook">
