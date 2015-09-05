@@ -390,7 +390,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<form name="_xclick" action="https://www.paypal.com/uk/cgi-bin/webscr" method="post" class="col-lg-4 col-lg-offset-4 col-sm-10 col-sm-offset-1" style="text-align: center;">
+						<form name="_xclick" action="https://www.paypal.com/uk/cgi-bin/webscr" method="post" class="col-lg-4 col-lg-offset-1 col-sm-10 col-sm-offset-1" style="text-align: center;">
 							<input type="hidden" name="business" value="ondrej.rafaj@gmail.com" />
 							<input type="hidden" name="item_name" value="Help With Smile contribution" />
 							<p>
@@ -407,6 +407,8 @@
 								<input type="image" src="http://www.paypal.com/en_GB/i/btn/x-click-butcc-donate.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!" />
 							</p>
 						</form>
+						<div id="jg-widget-ondrej-rafaj-588" class="col-lg-4 col-lg-offset-1 col-sm-10 col-sm-offset-1"></div>
+						<script>(function(){var id="jg-widget-ondrej-rafaj-588",doc=document,pfx=(window.location.toString().indexOf("https")==0)?"https":"http";var el=doc.getElementById(id);if(el){var js=doc.createElement('script');js.src=pfx+"://widgets.justgiving.com/fundraisingpage/ondrej-rafaj?enc=ZT1qZy13aWRnZXQtb25kcmVqLXJhZmFqLTU4OCZ3PTQwMCZiPWltYWdlLGRvbmF0ZSxmdW5kcmFpc2UmaWI9dGl0bGUsc3VtbWFyeSxwcm9ncmVzcyxyYWlzZWQsdGFyZ2V0";el.parentNode.insertBefore(js, el);}})();</script>
 					</div>
 				</div>
 			</div>
