@@ -980,7 +980,7 @@
 						<div class="col-xs-12">
 							<h4 class="heading">How to get this over to us?</h4>
 							<p class="heading__sub">
-								You can send it to our collection places in London, UK or Prague, CZ ... We will try to setup more collection places over the next couple of weeks. We might be able to arrange a collection if you get together with a couple of friends and prepare some cool gifts for our friends on the other side of the channel!
+								You can send it to our collection places in London or Torquay, we will be setting up a collection points in Prague, Berlin and Paris soon so please stay tuned ... We will try to setup more collection places over the next couple of weeks. We might be able to arrange a collection if you get together with a couple of friends and prepare some cool gifts for our friends on the other side of the channel!
 							</p>
 						</div>
 					</div>
@@ -995,6 +995,7 @@
 										London, UK
 									</div>
 									<div class="features-item-body__summary">
+										Ondrej Rafaj<br />
 										71 Avondale Avenue,<br />
 										EN4 8NB<br />
 										London, UK
@@ -1002,23 +1003,20 @@
 								</div>
 							</div>
 						</div>
-						<!--
 						<div class="col-sm-6">
 							<div class="features__item wow fadeIn">
 								<div class="features-item__body" style="text-align: center;">
 									<div class="features-item-body__title">
-										Prague, CZ
+										Torquay, CZ
 									</div>
 									<div class="features-item-body__summary">
-										manGoWeb,<br />
-										4th Floor,<br />
-										Lorem address 21,<br />
-										Prague 1, zech Republic
+										Contact:<br />
+										Phil Humphreys<br />
+										07861112233
 									</div>
 								</div>
 							</div>
 						</div>
-						-->
 					</div>
 				</div>
 			</div>
